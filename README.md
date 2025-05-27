@@ -85,7 +85,7 @@ Technologies I’ve already used in practical projects but am still learning.
 ### 📫 How to reach me
 
 * Email: [npnpdev@gmail.com](mailto:npnpdev@gmail.com)
-* LinkedIn: [linkedin.com](https://www.linkedin.com/in/igor-tomkowicz-a5760b358)
+* LinkedIn: [linkedin.com](https://www.linkedin.com/in/igor-tomkowicz)
 
 ---
 
@@ -170,7 +170,7 @@ Technologie, w których udało mi się już coś stworzyć, ale nadal się ich u
 ### 📫 Jak się ze mną skontaktować
 
 * Email: [npnpdev@gmail.com](mailto:npnpdev@gmail.com)
-* LinkedIn: [linkedin.com](https://www.linkedin.com/in/igor-tomkowicz-a5760b358)
+* LinkedIn: [linkedin.com](https://www.linkedin.com/in/igor-tomkowicz)
 ---
 
 *Last updated: 24.05.2025*
